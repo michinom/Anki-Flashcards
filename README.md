@@ -23,4 +23,4 @@ This Anki deck contains study notes from **Sejong 2 (세종한국어 2)**.
 4. Select the downloaded `.apkg` file.
 5. Confirm the import settings and sync your collection if needed.
 
-[⬇️ Download the Anki Deck](https://github.com/YOUR_USERNAME/YOUR_REPO/releases/latest)
+[⬇️ Download the Anki Deck](https://github.com/michinom/Anki-Flashcards/blob/main/KCCUK_Korean_Study_by_RJ.apkg)
