@@ -1,6 +1,6 @@
 # 📚 Anki Deck for KCCUK Sejong 2 🇰🇷
 
-This Anki deck contains study notes from **Sejong 2 (세종한국어 2)** and is designed to help you build strong Korean recall skills.
+This Anki deck contains study notes from **Sejong 2 (세종한국어 2)** and is designed to help you build strong Korean recall skills. Enjoy, let me know if any suggestions! _-Rick J_
 
 ---
 
@@ -15,8 +15,8 @@ This Anki deck contains study notes from **Sejong 2 (세종한국어 2)** and is
 
 ## 🌙 Display & 🔊 Audio
 
-- This deck works with both **dark mode and light mode** ✨  
-- All audio was produced using **ElevenLabs.io AI text-to-speech** with **Jin Geon Song's voice** 🎙️  
+- This deck works beautifully in both **dark mode and light mode** ✨  
+- All audio was produced using **ElevenLabs.io AI text-to-speech** 
 - It is **recommended to disable audio autoplay** in the Anki settings for better control during study ⚙️  
 
 ---
@@ -27,4 +27,9 @@ This Anki deck contains study notes from **Sejong 2 (세종한국어 2)** and is
 2. Open **Anki**  
 3. Click **File → Import**  
 4. Select the downloaded `.apkg` file  
-5. Confirm the import settings and sync your collection if needed ✅  
+5. Confirm the import settings and sync your collection if needed ✅
+
+## 👀 How it looks
+| Front    | Back | Light mode |
+| -------- | ------- | ------- |
+| ![](https://raw.githubusercontent.com/michinom/Anki-Flashcards/refs/heads/main/rjsejong2darkmodefront.png)  | ![](https://raw.githubusercontent.com/michinom/Anki-Flashcards/refs/heads/main/rjsejong2darkmodeback.png) |![](https://raw.githubusercontent.com/michinom/Anki-Flashcards/refs/heads/main/rjsejong2lightmode.png) |
