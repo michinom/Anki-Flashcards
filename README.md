@@ -1,6 +1,8 @@
+_Update: 19th December 2025: Added >20 ages in Family chapter, fixed some random errors_
+
 # 📚 Anki Deck for KCCUK Sejong 2 🇰🇷
 
-This Anki deck contains study notes from **Sejong 2 (세종한국어 2)** and is designed to help you build strong Korean recall skills. Enjoy, let me know if any suggestions! _-Rick J_
+This Anki deck contains study notes from **Sejong 2 (세종한국어 2)** and is designed to help you build strong Korean recall skills. Enjoy, click on the "Contact author" to let me know if any suggestions! _-Rick J_
 
 ---
 
@@ -30,6 +32,4 @@ This Anki deck contains study notes from **Sejong 2 (세종한국어 2)** and is
 5. Confirm the import settings and sync your collection if needed ✅
 
 ## 👀 How it looks
-| Front    | Back | Light mode |
-| -------- | ------- | ------- |
-| ![](https://raw.githubusercontent.com/michinom/Anki-Flashcards/refs/heads/main/rjsejong2darkmodefront.png)  | ![](https://raw.githubusercontent.com/michinom/Anki-Flashcards/refs/heads/main/rjsejong2darkmodeback.png) |![](https://raw.githubusercontent.com/michinom/Anki-Flashcards/refs/heads/main/rjsejong2lightmode.png) |
+![](https://raw.githubusercontent.com/michinom/Anki-Flashcards/refs/heads/main/anki_sejong2_rickj.jpg)
